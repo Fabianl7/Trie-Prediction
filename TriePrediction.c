@@ -1,7 +1,3 @@
-// Fabian Londono
-// NID: Fa661057
-// Cop 3502, Spring 2022
-
 #include <ctype.h>
 #include <stdio.h>
 #include <stdlib.h>
